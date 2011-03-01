@@ -1,0 +1,33 @@
+C:\home\projects\wg7\wg7\wg7\bin\Windows Phone\Debug\wg7.dll
+C:\home\projects\wg7\wg7\wg7\bin\Windows Phone\Debug\wg7.pdb
+C:\home\projects\wg7\wg7\wg7\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\home\projects\wg7\wg7\wg7\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\home\projects\wg7\wg7\wg7\obj\Windows Phone\Debug\wg7.dll
+C:\home\projects\wg7\wg7\wg7\obj\Windows Phone\Debug\wg7.pdb
+C:\home\projects\wg7\wg7\wg7\bin\Windows Phone\Debug\AppManifest.xaml
+C:\home\projects\wg7\wg7\wg7\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\home\projects\wg7\wg7\wg7\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+C:\home\projects\wg7\wg7\wg7\bin\Windows Phone\Debug\wg7.xap
+C:\home\projects\wg7\wg7\wg7\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\home\projects\wg7\wg7\wg7\bin\Windows Phone\Debug\Content\circle.xnb
+C:\home\projects\wg7\wg7\wg7\bin\Windows Phone\Debug\Content\sprite.xnb
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\Content\circle.xnb
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\Content\sprite.xnb
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\wg7.dll
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\wg7.pdb
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\wg7.dll
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\wg7.pdb
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\WMAppManifest.xml
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\wg7.xap
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\wg7.xap
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
